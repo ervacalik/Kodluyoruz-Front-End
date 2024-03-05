@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkımızda</title>
+    <link rel="stylesheet" href=" css/css-ödev.css">
+</head>
+<body style="text-align: center;">
+    <h1  style="color: crimson;"> Müzik Dükkanım </h1>
+    <a href="Ana-sayfa.html"> Ana Sayfa </a><span> &nbsp;&nbsp;&nbsp;  </span>
+    <a href="Ürünlerimiz.html" target="_blank"> Ürünlerimiz </a><span> &nbsp;&nbsp;&nbsp; </span>
+    <a href="Hakkımızda.html" target="_blank">Hakkımızda</a>
+    <h2 style="color: rgb(17, 66, 50);"> Hakkımızda</h2>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolor, dolorem.</p>
+    <h3>Vizyonumuz</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique accusamus quia perspiciatis veniam pariatur necessitatibus aliquam nihil adipisci fugit voluptates dolore excepturi consequuntur laborum, praesentium ducimus voluptatum reprehenderit ipsum sit, debitis a magni exercitationem eius reiciendis! Labore placeat laudantium suscipit.</p>
+    <h3> Misyonumuz</h3>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Neque beatae eos consequatur dolor error veritatis ratione voluptate, praesentium et esse quibusdam tenetur atque ut velit possimus cum debitis. Natus aliquam quia praesentium recusandae vitae, pariatur sequi iusto ducimus quo a modi cumque, maiores neque! Repudiandae nemo omnis voluptates? Amet sit asperiores totam consequatur tempore dolorum magni maxime unde temporibus modi.</p>
+    
+</body>
+
