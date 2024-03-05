@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ana Sayfa</title>
+    <link rel="stylesheet" href="css/css-ödev.css">
+    <style>
+        ul { 
+            text-align: center;
+            padding: 0;
+            margin: 0;
+        }
+        ul li { 
+            list-style-type:circle;
+            margin-bottom: 5px;
+
+        }
+    </style>
+</head>
+<body style="text-align: center;">
+    <h1  style="color: crimson;"> Müzik Dükkanım </h1>
+    <a href="Ana-sayfa.html"> Ana Sayfa </a><span> &nbsp;&nbsp;&nbsp;  </span>
+    <a href="Ürünlerimiz.html" target="_blank"> Ürünlerimiz </a><span> &nbsp;&nbsp;&nbsp; </span>
+    <a href="Hakkımızda.html" target="_blank">Hakkımızda</a>
+    <h2 style="color: rgb(17, 66, 50);"> Ana Sayfa</h2>
+    <p>Müzik dükkanım sitemize sitemize hoş geldiniz!  Bu sitede çeşitli müzik aletleri bulabilirsiniz.Uygun fiyatlı ve kaliteli ürünlerimiz için <a href="Ürünlerimiz.html" target="_blank"> Ürünlerimiz </a> sayfamızı ziyaret edebilirsiniz</p>
+    <h3>Sitemizde Bulunan Müzik Aletleri</h3>
+    <ul style="list-style-position: inside;">
+        <li>Gitar</li>
+        <li>Piyano</li>
+        <li>Çello</li>
+        <li>Keman</li>
+        <li>Yan Flüt</li>
+    </ul>
+</body>
+</html>
