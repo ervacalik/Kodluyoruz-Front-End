@@ -1,0 +1,112 @@
+.color-yesil{ 
+   background-color: #7EE5DA; 
+}
+.color-yesil2 {
+  background-color: #70CCC2;
+
+}
+.color-yesil3{
+    background-color: #62B3AA;
+}
+.color-gri{
+    background-color: #EEEEEE;
+}
+
+.box1{
+    margin-top: 200px;
+    height: 125px;
+    padding: auto;;
+
+   
+}
+.box2{
+    
+    height: 100px;
+
+}
+.box3{
+    height: 150px;
+    
+}
+.card1{
+    width:33% ;
+    height: 125px ;
+    float: left;
+}
+.card2{
+    width:33%;
+    height: 125px;
+    float: left;
+}
+.card3{
+    width: 34%;
+    height: 125px;
+    float: left;
+
+
+}
+.arama-cubugu{
+    width: 400px;
+    height: 25px;
+    background-color: white;
+    padding: auto;
+    padding-top: 0px;
+    margin: 5px 0;
+    -webkit-box-shadow: 0px 0px 31px -3px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 0px 31px -3px rgba(0,0,0,0.2);
+    box-shadow: 0px 0px 31px -3px rgba(0,0,0,0.2);
+}
+
+.orta{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.small-box{
+    background-color: rgb(201, 201, 201);
+    width: 170px;
+    height: 20px;
+    margin: auto;
+    float: left;
+    margin-right:15px ;
+    padding: auto;
+    margin-top: 4px;
+    
+
+}
+.box5{
+    width: 10 px ;
+    height: 40 px;
+    background-color: white;
+    padding: auto;
+    padding-top: 0px;
+    margin: 5px 0;
+    -webkit-box-shadow: 0px 0px 31px -3px rgba(0,0,0,0.2);
+    -moz-box-shadow: 0px 0px 31px -3px rgba(0,0,0,0.2);
+    box-shadow: 0px 0px 31px -3px rgba(0,0,0,0.2);
+}
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.small-box-conteiner{
+    display: flex;
+    justify-content: center;
+}
+
+.small2-box{
+    background-color: rgb(201, 201, 201);
+    width: 100px;
+    height: 20px;
+    margin: auto;
+    float: left;
+    margin-right:15px ;
+    padding: auto;
+    margin-top: 4px;
+    
+}
+
+
+
