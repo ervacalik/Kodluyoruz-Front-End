@@ -1,0 +1,90 @@
+.box1 {
+    
+    padding: auto;
+    height: 50px;
+}
+.box2{
+    padding: auto;
+    height: 50px;
+    width: 75%
+}
+.box3{
+    padding: auto;
+    height: 50px;
+    width: 25%;
+}
+.box4{
+    background-color: #4285f4;
+    padding: auto;
+    height: 30px;
+    width: 100px;
+}
+.orta{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.small-box-container{
+    display: flex;
+    justify-self: center;
+}
+.container{
+    display: flex;
+    
+    align-items: center;
+}
+.box-resim{
+    padding: auto;
+    height: 220px;
+   
+}
+.box-arama-cubugu{
+    height: 17px;
+    width: 450px; /* veya istediğiniz genişlik */
+    background-color: #fff;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    padding: 12px 16px;
+    box-shadow: 0 1px 6px rgba(32, 33, 36, 0.28);
+
+
+}
+.small-box{
+    background-color: #f2f2f2;
+    border: 1px solid #f2f2f2;
+    border-radius: 4px;
+    color: #5F6368;
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    margin: 11px 10px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+        
+}
+.yeni-box{
+    height: 100px;
+    
+}
+
+.alt-box{
+    height: 60px;
+    background-color: #f2f2f2;
+}
+.bos-box{
+    height: 280px;
+    
+}
+.alt-box{
+    width: 1415px;
+   
+    
+}
+.alt-box2{
+    width: 350px;
+    
+}
