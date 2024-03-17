@@ -1,0 +1,55 @@
+.orta{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.orta1{
+    display: block;
+    margin-left: 20px;
+    padding-bottom: 20px;
+}
+.box {
+    height: 50px;
+    background-color: gray;
+    margin-top: auto;
+    margin-bottom: auto;
+    display: flex; /* Flexbox kullanarak içeriği dikey olarak hizala */
+
+    align-items: center; /* Dikeyde ortala */
+    line-height: 50px; /* Kutu yüksekliği kadar line-height ayarı */
+}
+
+
+.renk-degistir {
+    color: rgb(31, 31, 31); /* Tüm metni gri yap */
+}
+.renk-degistir:hover {
+    color: white; /* Üzerine gelindiğinde metni beyaz yap */
+}
+
+.small-box{
+    width: 100px;
+    height: 34px;
+    background-color: rgb(33, 133, 234);
+    aspect-ratio: auto;
+    text-align: left;
+    -webkit-text-fill-color: inherit;
+    background-clip: border-box;
+    border-radius: 15px;
+    bottom: 6%;
+    left: 12px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+}
+.fiyat-box{
+    width: 100px;
+    height: 30px;
+    background-color:grey;
+    aspect-ratio: auto;
+    text-align: left;
+    -webkit-text-fill-color: inherit;
+    background-clip: border-box;
+    border-radius: 15px;
+    bottom: 6%;
+    left: 12px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
+}
